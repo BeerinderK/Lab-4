@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(229, 255, 181);
+    padding-top: 0%;
+    padding-right: 5%;
+    padding-left: 5%
+}
+
+.main{
+    background-color: rgb(236, 252, 218);
+    border: 5px solid rgb(236, 252, 218);
+    border-radius: 40px;
+}
+
+img{
+    float: left;
+}
+
+.bottom {
+    text-align: center;
+}
+
+h1{
+    margin-top: 0%;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 21%;
+}
+h2{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 21%;
+}
+
+.clearfix{
+    clear:both
+}
+    
